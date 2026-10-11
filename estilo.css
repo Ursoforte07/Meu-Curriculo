@@ -1,0 +1,110 @@
+body {
+    background-color: #f4f4f9;
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+section {
+    margin-left: 22px;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    color:black;
+    margin-bottom: 0px;
+    font-size: 35px;
+
+}
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+p {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0;
+}
+i {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ul {
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+img {
+    width: 270px;
+    border-radius: 50%;
+    border: 2px solid black;
+    margin-left: 22px;
+    margin-right: 0;
+}
+
+.parteCima {
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+    gap: 75px;
+    background-color:#F2CEED;
+    padding: 20px;
+    
+}
+
+.info h1{
+    margin-bottom: 2px;
+    margin-top: 0;
+}
+.linha {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.curso {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.local {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.informacoes p {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.tempoUIT i {
+    font-size: 13px;
+    margin-bottom: 0px;
+
+}
+
+.formacao p{
+    margin-bottom: 20px;
+}
+
+.parteBaixo {
+
+    background-color: #F2CEED; 
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.parteBaixo li{
+    margin-left: 20px;
+
+}
+
+.conhecimentosTecnicos {
+    margin-left: 22px;
+}
+
+.experiencias p {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
